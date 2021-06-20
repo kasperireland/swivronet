@@ -8,6 +8,7 @@ hr {
 
 h1 {
   font-size: 55px;
+  color: white;
 }
 
 a {
@@ -63,6 +64,7 @@ small {
   max-width: 550px;
   text-align: center;
   align-content: center;
+  color: white;
 }
 
 .nav-item:hover {
