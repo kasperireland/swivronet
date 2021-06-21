@@ -10,6 +10,9 @@
         <loc>https://swivro.net/welcome/budget.html</loc>
     </url>
     <url>
+        <loc>https://swivro.net/welcome/cdn.html</loc>
+    </url>
+    <url>
         <loc>https://swivro.net/welcome/dc.html</loc>
     </url>
     <url>
@@ -32,6 +35,9 @@
     </url>
     <url>
         <loc>https://swivro.net/welcome/snapshots.html</loc>
+    </url>
+    <url>
+        <loc>https://swivro.net/welcome/startcdn.html</loc>
     </url>
     <url>
         <loc>https://swivro.net/welcome/terms.html</loc>
