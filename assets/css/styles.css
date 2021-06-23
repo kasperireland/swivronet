@@ -124,10 +124,6 @@ rotate {
   transform: rotate(90deg);
 }
 
-.btn {
-  border-radius: 3px;
-}
-
 h2 {
   color: white;
 }
