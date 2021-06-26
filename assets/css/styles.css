@@ -132,3 +132,34 @@ h3 {
   color: white;
 }
 
+.padding {
+  padding-bottom: 10px;
+}
+
+contrast {
+  color: #eb1a5c;
+  text-shadow: none;
+}
+
+.spacing {
+  padding-bottom: 20px;
+}
+
+a:hover {
+  color: black;
+  background-color: unset !important;
+  color: unset !important;
+}
+
+li {
+  background-color: unset !important;
+  color: unset !important;
+  color: black;
+}
+
+li:hover {
+  background-color: unset !important;
+  color: unset !important;
+  color: black;
+}
+

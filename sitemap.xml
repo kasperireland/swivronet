@@ -4,40 +4,10 @@
         <loc>https://swivro.net/welcome/about.html</loc>
     </url>
     <url>
-        <loc>https://swivro.net/welcome/app.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/blestahosting.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/cdn.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/dc.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/ddos.html</loc>
-    </url>
-    <url>
         <loc>https://swivro.net/welcome/index.html</loc>
     </url>
     <url>
-        <loc>https://swivro.net/welcome/news.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/pricing.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/pricing-reseller.html</loc>
-    </url>
-    <url>
         <loc>https://swivro.net/welcome/privacy.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/snapshots.html</loc>
-    </url>
-    <url>
-        <loc>https://swivro.net/welcome/startcdn.html</loc>
     </url>
     <url>
         <loc>https://swivro.net/welcome/terms.html</loc>
@@ -46,6 +16,9 @@
         <loc>https://swivro.net/welcome/unmetered.html</loc>
     </url>
     <url>
-        <loc>https://swivro.net/welcome/whyus.html</loc>
+        <loc>https://swivro.net/welcome/usweb.html</loc>
+    </url>
+    <url>
+        <loc>https://swivro.net/welcome/webdev.html</loc>
     </url>
 </urlset>
