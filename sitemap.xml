@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://swivro.net/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://swivro.net/</loc>
+</url>
+<url>
+<loc>https://swivro.net/about.html</loc>
+<lastmod>2021-07-05T19:58:41-05:00</lastmod>
+</url>
+<url>
+<loc>https://swivro.net/brands-and-divisions.html</loc>
+<lastmod>2021-07-05T20:11:16-05:00</lastmod>
+</url>
+<url>
+<loc>https://swivro.net/donate.html</loc>
+<lastmod>2021-07-05T19:57:35-05:00</lastmod>
+</url>
+<url>
+<loc>https://swivro.net/gitpear-is-fully-operational.html</loc>
+<lastmod>2021-07-05T19:10:39-05:00</lastmod>
+<image:image>
+<image:loc>https://swivro.net/media\posts\2/Screenshot_20.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://swivro.net/introducing-levin-password-manager.html</loc>
+<lastmod>2021-07-05T18:37:01-05:00</lastmod>
+<image:image>
+<image:loc>https://swivro.net/media\posts\1/New-Project-2021-07-05T163512.600.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://swivro.net/re-announcing-gitpear.html</loc>
+<lastmod>2021-07-05T19:14:23-05:00</lastmod>
+<image:image>
+<image:loc>https://swivro.net/media\posts\3/New-Project-92-1-1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

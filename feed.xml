@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Swivro</title>
+    <link href="https://swivro.net/feed.xml" rel="self" />
+    <link href="https://swivro.net" />
+    <updated>2021-07-05T19:14:23-05:00</updated>
+    <author>
+        <name>Swivro Team</name>
+    </author>
+    <id>https://swivro.net</id>
+
+    <entry>
+        <title>Introducing Levin Password Manager</title>
+        <author>
+            <name>Swivro Team</name>
+        </author>
+        <link href="https://swivro.net/introducing-levin-password-manager.html"/>
+        <id>https://swivro.net/introducing-levin-password-manager.html</id>
+
+        <updated>2021-07-05T18:37:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://swivro.net/media/posts/1/New-Project-2021-07-05T163512.600.png" alt="" />
+                     Introducing Levin. Levin is a password manager, that doesn't store any passwords. Makes sense right? Levin looks more like a password generator at first, and you wouldn't be wrong, it works, feels, and looks like one. Levin lets you generate and access various passwords&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://swivro.net/media/posts/1/New-Project-2021-07-05T163512.600.png" alt="" />
+                
+  <p>
+    Introducing Levin. Levin is a password manager, that doesn't store any passwords. Makes sense right? Levin looks more like a password generator at first, and you wouldn't be wrong, it works, feels, and looks like one. 
+<br>
+<br>Levin lets you generate and access various passwords for various sites with only a single master password. That's right, all you have to remember is the master password. Remember one master password to access all of your passwords, anywhere, anytime, on any device. No synchronization between devices is needed. What, how? Well, it's because, when the same values are entered for the site name, username, and master password (and password length and specifications, both optional), the same exact password will always be generated. For example, if for the username, I put "test", for the site name, I put "test" and for the master password, I put "test", the password will always result as the following:
+<br>
+<br>n5OOmzRroYD{y[PGmgEMzf5/nc_{yzdB
+<br>
+<br>
+<br>
+<br>You can test this on your own at Levin, accessible here https://tls.levin.codes and if you put "test" for every input/text value, including the site name, username, and master password, it will always result the same. In this case, it is the value specified above this paragraph, in italics.
+<br>
+<br>Now, how secure is it? A combination of the site name, username, and master password is SHA512/224 hashed. The output hash is encoded using a modified form of the Base64 encoding algorithm, mapping 3 character input segments to 4 characters of output. Can't understand that? It means it's pretty darn good security-wise. We don't hide anything from you either, Levin is based on open source software which you can see in the source code as a comment line. Additionally, we have licensed Levin under CC by ND 4.0. This means you can use Levin for both personal or commercial use, but attribution is required, and if you remix, transform, or build upon the material, you may not distribute the modified material.
+<br>
+<br>Additionally, along with the encryption methods stated above, your connection to the Levin website also features two layers of encryption, both being TLS Certificates. The outer layer of encryption is the CloudFlare TLS Certificate, which encrypts the connection between your browser, and CloudFlare. The inner layer of encryption, serverside, features (usually) a self-signed Levin TLS Certificate. On some occasions, a Let's Encrypt/R3, or ZeroSSL TLS Certificate will be used. Typically, we use self-signed Levin TLS Certificates. This makes a total of more than 4 encryption methods (when counting server encryption, and more) throughout Levin.
+<br>
+<br>Levin will be available forever, even if Swivro were to shut down, a rather impossible event. Levin is independently managed by its own team, Swivro itself does not actively make its own changes to Levin or any of its projects. Try Levin Now &gt; https://tls.levin.codes/
+<br>
+<br>Feel free to donate to us at any time, since we run solely on donations, and sadly, we don't have a lot of patrons. Thank you for reading.
+  </p>
+<div><form action="https://www.paypal.com/donate" method="post" target="_top">
+<input name="hosted_button_id" type="hidden" value="A5WM6RH64VRLS" />
+<input alt="Donate with PayPal button" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" title="PayPal - The safer, easier way to pay online!" type="image" />
+<img loading="lazy" alt="" border="0" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  width="1" />
+</form>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>GitPear is fully operational</title>
+        <author>
+            <name>Swivro Team</name>
+        </author>
+        <link href="https://swivro.net/gitpear-is-fully-operational.html"/>
+        <id>https://swivro.net/gitpear-is-fully-operational.html</id>
+
+        <updated>2021-07-05T19:10:39-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://swivro.net/media/posts/2/Screenshot_20.png" alt="" />
+                    GitPear, the #1 best alternative to GitHub (FREE Code Hosting), managed and owned by us at Swivro, has officially been operational since June 30th, 2021. GitPear is in a stable production state, and is no longer buggy or unstable. GitPear is now available to anyone,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://swivro.net/media/posts/2/Screenshot_20.png" alt="" />
+                <p>GitPear, the #1 best alternative to GitHub (FREE Code Hosting), managed and owned by us at Swivro, has officially been operational since June 30th, 2021. GitPear is in a stable production state, and is no longer buggy or unstable. GitPear is now available to anyone, anywhere. Although GitPear does indeed offer all free services, donations are very appreciated, as we run on donations and are funded by Arc.io every so often.</p>
+<p> </p>
+<div>Let's get started with some of the obvious changes. The logo. The logo has a new color and look. Here you can see a comparison of the logo when GitPear opened and the new logo.</div>
+<div> </div>
+<div><figure class="post__image"><img loading="lazy"  src="https://i.imgur.com/CVyZkU6.png" data-is-external-image="true"  alt="" width="355" height="340"></figure></div>
+<div>
+<div>
+<div class="separator">Yes, we know, the old logo does look more like a pear, as the color is more similar to the color of an actual pear, but we wanted to switch things up, and create a "modern color" pear. It pops out more, looks cooler, but it doesn't give you a better feeling about if the pear is ripe or not.</div>
+<div class="separator">GitPear, of course, is based on the Open Source Gitea Software, which you can see at any time via this GitHub Mirror hosted at GitPear: <a href="https://gitpear.com/kasper/gitea">https://gitpear.com/kasper/gitea</a></div>
+<div class="separator"> </div>
+<div class="separator">GitPear wont last forever if we cannot fund it. To fund it, we need donations. We're not requiring it but we do really appreciate it, you can donate directly to GitPear via PayPal or Card. All of the money goes straight back into GitPear.</div>
+Swivro is considered a nonprofit, but not the legal entity type (IE: 501[c3]). We are a nonprofit technology group, MEANING, our primary objective is not to make a profit, but obviously, we will need to make some money to keep operating our services. Some of our (Swivro) brands or divisions do not offer free services, and those brands can sustain themselves as they actively make a profit intentionally, but nonprofit brands like GitPear require donations to keep running.</div>
+<div>If you would like to donate directly to GitPear, feel free to do so here: <a href="https://liberapay.com/GitPear/donate">https://liberapay.com/GitPear/donate</a><br><br></div>
+<div>Back on the topic. GitPear now also features a Dark Theme, called Arc-Green. So when you are browsing your code on GitPear at night, or your just the type of person that doesn't enjoy burning their corneas, then you can use this dark theme by logging into your GitPear account, going to Settings -&gt; Account, then scroll down to Theme. Arc-Green Dark Theme is developed by Gitea. We have not have it enabled until now.</div>
+<div> </div>
+<div>We took a while to figure this one out, we needed to pick a server provider to host GitPear. We looked through lots of providers, including Hetzner, NetCup, Contabo, OVH, Azure, and more, but when comparing prices, features, speed, DDoS Protection, and value, side by side, BuyVM by FranTech had won, and we are now happily hosting with them, on a KVM Dedicated Slice.</div>
+<div> </div>
+<div>If you have any queries or concerns feel free to contact us via the Contact Page on this website. Thanks for reading!</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Re-announcing GitPear</title>
+        <author>
+            <name>Swivro Team</name>
+        </author>
+        <link href="https://swivro.net/re-announcing-gitpear.html"/>
+        <id>https://swivro.net/re-announcing-gitpear.html</id>
+
+        <updated>2021-07-05T19:14:23-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://swivro.net/media/posts/3/New-Project-92-1-1.png" alt="" />
+                    GitPear was a project started by Swivro in late 2019, and was public in early 2020. In a few months time, GitPear had shut down due to lack of appropriate funding, because as you may not know, Swivro is an unregistered nonprofit internet-based organization. GitPear&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://swivro.net/media/posts/3/New-Project-92-1-1.png" alt="" />
+                <p>GitPear was a project started by Swivro in late 2019, and was public in early 2020. In a few months time, GitPear had shut down due to lack of appropriate funding, because as you may not know, Swivro is an unregistered nonprofit internet-based organization.</p>
+<p>GitPear is officially being restarted, and will be publicly available in a few days or weeks time. Although we are indeed restarting GitPear as a free service, donations are GREATLY appreciated. If you cannot donate, or simply don't want to (which is totally fine!), as an alternative method of donating, you can simply keep a few tabs of our homepage, swivro.net, open in your browser.</p>
+<p>Why keep it open in your browser you ask? We use a website called Arc to help fund Swivro to keep providing online services, as we are a nonprofit. Arc is a peer-to-peer content exchange and delivery network (CDN). Swivro users share bandwidth (completely safe and secure with absolutely no risk involved), Arc.io rents it, and Swivro gets paid the proceeds. This allows us to make money to fund Swivro whilst not displaying ads on our website. This way, you don't have to directly donate.</p>
+<p>Direct Donations are still greatly appreciated as they help us even more.</p>
+<p>GitPear will be available via the domain name GitPear.com some time in 2021, we will update you with a new post here on our Blog accessible via swivro.net when GitPear is available.</p>
+<p>Thank you for reading!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
