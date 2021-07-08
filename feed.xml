@@ -3,7 +3,7 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-08T18:17:22-05:00</updated>
+    <updated>2021-07-08T18:19:39-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://swivro.net/speaklink-introduction-and-02-official-release.html"/>
         <id>https://swivro.net/speaklink-introduction-and-02-official-release.html</id>
 
-        <updated>2021-07-08T18:17:22-05:00</updated>
+        <updated>2021-07-08T18:19:39-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://swivro.net/media/posts/10/New-Project-2021-07-08T175455.382.png" alt="" />
@@ -36,7 +36,7 @@
 <p>Of course, the current latest release is 0.2 (officially 0.2.1). You can see the Speaklink code releases here -&gt; <a href="https://github.com/kasperireland/speaklink/releases">https://github.com/kasperireland/speaklink/releases</a></p>
 <p>In the latest release, 0.2 (officially 0.2.1), there is currently a bug or two, along with a visual issue. These issues were fixed, and have been applied to the "master" branch of the repository, along with the official Speaklink instance at Speaklink.uk.to, but have not yet been applied to a release. The next Speaklink release, 0.3, will feature the fixes. SpeakLink 0.3 will have even more new features, including a mobile app, desktop app, a (possibly) slightly cleaner UI, and more.</p>
 <p>We will continue to develop Speaklink, building upon Matrix/Element, making Speaklink even better. We believe we've already simplified the sign up process.</p>
-<p>As always, donations are appreciated. We run on donations, to allow us to keep providing online services like Speaklink. Due to some recent lack of funding via donations we were forced to implement Ad's to our website (the website you are currently on) to help fund us. If you would like to see these ad's get removed, feel free to donate at any time. It isn't required, but if you would like to consider donating, there is a button below. Thanks for reading and have a great day :)</p>
+<p>As always, donations are appreciated. We run on donations, to allow us to keep providing online services like Speaklink, and to help cover the "cost" of human labor hours. Due to some recent lack of funding via donations we were forced to implement Ad's to our website (the website you are currently on) to help fund us. If you would like to see these ad's get removed, feel free to donate at any time. It isn't required, but if you would like to consider donating, there is a button below. Thanks for reading and have a great day :)</p>
 <p> </p>
 <form action="https://www.paypal.com/donate" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="A5WM6RH64VRLS"> <input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" type="image"> <img loading="lazy" src="https://www.paypal.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0"></form>
             ]]>
