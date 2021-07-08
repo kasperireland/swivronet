@@ -3,7 +3,7 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-08T00:20:20-05:00</updated>
+    <updated>2021-07-08T00:23:26-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://swivro.net/levin-password-manager-11-official-release.html"/>
         <id>https://swivro.net/levin-password-manager-11-official-release.html</id>
 
-        <updated>2021-07-08T00:20:20-05:00</updated>
+        <updated>2021-07-08T00:23:26-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://swivro.net/media/posts/9/New-Project-2021-07-08T000228.584.png" alt="" />
+                        <img src="https://swivro.net/media/posts/9/New-Project-2021-07-08T002318.264.png" alt="" />
                     Levin, our amazing stateless password manager, has been operating flawlessly since release. It's not perfect, and never will be absolutely spot-on perfect, but we always try to improve it as much as we can. Levin 1.1, our latest release, is indeed an improvement, making things&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://swivro.net/media/posts/9/New-Project-2021-07-08T000228.584.png" alt="" />
+                    <img src="https://swivro.net/media/posts/9/New-Project-2021-07-08T002318.264.png" alt="" />
                 <p>Levin, our amazing stateless password manager, has been operating flawlessly since release. It's not perfect, and never will be absolutely spot-on perfect, but we always try to improve it as much as we can. Levin 1.1, our latest release, is indeed an improvement, making things simpler, quicker, and less-complicated, while still delivering the same great speed, security, privacy, ya know.</p>
 <p>Levin is mind-blowingly lightweight, so there isn't much code. Being said, we just officially released Levin 1.1. Levin 1.1 can be accessed via Levin Web at levin.swivro.net or TLS.Levin.codes. Levin 1.1 is not yet pushed to the open source GitPear repository for public-use, but will be shortly. You can still download Levin 1.1 NOW via Google Drive, more on that later in this article.</p>
 <p><strong>What's changed?</strong></p>
