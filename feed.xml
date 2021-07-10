@@ -3,7 +3,7 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-10T13:13:50-05:00</updated>
+    <updated>2021-07-10T17:23:10-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
@@ -300,7 +300,7 @@ Swivro is considered a nonprofit, but not the legal entity type (IE: 501[c3]). W
         <link href="https://swivro.net/re-announcing-gitpear.html"/>
         <id>https://swivro.net/re-announcing-gitpear.html</id>
 
-        <updated>2021-07-05T19:14:23-05:00</updated>
+        <updated>2021-07-10T17:23:10-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://swivro.net/media/posts/3/New-Project-92-1-1.png" alt="" />
@@ -310,7 +310,7 @@ Swivro is considered a nonprofit, but not the legal entity type (IE: 501[c3]). W
         <content type="html">
             <![CDATA[
                     <img src="https://swivro.net/media/posts/3/New-Project-92-1-1.png" alt="" />
-                <p>GitPear was a project started by Swivro in late 2019, and was public in early 2020. In a few months time, GitPear had shut down due to lack of appropriate funding, because as you may not know, Swivro is an unregistered nonprofit internet-based organization.</p>
+                <p>GitPear was a project started by Swivro in late 2019, and was public in early 2020. In a few months time, GitPear had shut down due to lack of appropriate funding. Users had their data backed up, as instructed to before GitPear had shut down.</p>
 <p>GitPear is officially being restarted, and will be publicly available in a few days or weeks time. Although we are indeed restarting GitPear as a free service, donations are GREATLY appreciated. If you cannot donate, or simply don't want to (which is totally fine!), as an alternative method of donating, you can simply keep a few tabs of our homepage, swivro.net, open in your browser.</p>
 <p>Why keep it open in your browser you ask? We use a website called Arc to help fund Swivro to keep providing online services, as we are a nonprofit. Arc is a peer-to-peer content exchange and delivery network (CDN). Swivro users share bandwidth (completely safe and secure with absolutely no risk involved), Arc.io rents it, and Swivro gets paid the proceeds. This allows us to make money to fund Swivro whilst not displaying ads on our website. This way, you don't have to directly donate.</p>
 <p>Direct Donations are still greatly appreciated as they help us even more.</p>
