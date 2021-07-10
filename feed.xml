@@ -3,12 +3,49 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-08T18:27:24-05:00</updated>
+    <updated>2021-07-09T22:57:03-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
     <id>https://swivro.net</id>
 
+    <entry>
+        <title>Levin Password Manager; Mobile Support Update &amp; Guide</title>
+        <author>
+            <name>Casper the Ghost</name>
+        </author>
+        <link href="https://swivro.net/levin-password-manager-mobile-support-update-and-guide.html"/>
+        <id>https://swivro.net/levin-password-manager-mobile-support-update-and-guide.html</id>
+
+        <updated>2021-07-09T22:57:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://swivro.net/media/posts/11/New-Project-2021-07-09T225157.778.png" alt="" />
+                    Levin has been running healthy ever since initial release. If you didn't know, Levin is a password manager, that doesn't&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://swivro.net/media/posts/11/New-Project-2021-07-09T225157.778.png" alt="" />
+                <p>Levin has been running healthy ever since initial release. </p>
+<p>If you didn't know, Levin is a password manager, that doesn't store any passwords. Makes sense right? </p>
+<p>Levin lets you generate and access various passwords for various sites with only a single master password. That's right, all you have to remember is the master password. Remember one master password to access all of your passwords, anywhere, anytime, on any device. No synchronization between devices is needed. What, how? Well, it's because, when the same values are entered for the site name, username, and master password (and password length and specifications, both optional), the same exact password will always be generated. For example, if for the username, I put "test", for the site name, I put "test" and for the master password, I put "test", the password will always result as the following:<br><br>n5OOmzRroYD{y[PGmgEMzf5/nc_{yzdB<br><br><br><br>You can test this on your own at Levin, accessible here https://tls.levin.codes and if you put "test" for every input/text value, including the site name, username, and master password, it will always result the same. In this case, it is the value (made up of upper case and lower case letters and some symbols) specified above this paragraph.</p>
+<p>Moving on to the mobile support update. We said that the next Levin update would be a mobile support update, meaning it would include a mobile app for Android and iOS. Sadly, there have been some issues with securely releasing the mobile app. We now estimate the official release to be some time this month (July 2021), but we cannot guarantee anything. Fortunately, you can still get somewhat of an app (on Android Devices) for Levin. It's not a straight mobile app, but works just like one and is just as useful. Here's a quick guide on how to get started with Levin Mobile:</p>
+<p>Simply navigate to the Levin website on your Android device in Google Chrome, at levin.swivro.net. Then, click the pink button saying "Open Levin Web".</p>
+<p>You will then be brought to the Levin Web App. If you don't know what were talking about, it has a very obvious purple background with the Levin Logo as well. Then, you will need to click the three vertical dots on the top right of Chrome.</p>
+<figure class="post__image"><img loading="lazy"  src="https://swivro.net/media/posts/11/Screenshot_21.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://swivro.net/media/posts/11/responsive/Screenshot_21-xs.png 300w ,https://swivro.net/media/posts/11/responsive/Screenshot_21-sm.png 480w ,https://swivro.net/media/posts/11/responsive/Screenshot_21-md.png 768w"  alt="" width="385" height="717"></figure>
+<p>After clicking the three dots, the Chrome Menu will open. From there, you need to press "Add to Home Screen". This will then open a menu saying "Add to home screen". You will be given an option to name the app. The default name is "Levin", however, you can change it to what you would like to, IE: My Favorite Password Manager</p>
+<p>After this menu pops up and you have chosen the name for the app (default name is Levin; we suggest keeping it as Levin), you then have to simply press "Add".</p>
+<figure class="post__image"><img loading="lazy"  src="https://swivro.net/media/posts/11/Screenshot_23.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://swivro.net/media/posts/11/responsive/Screenshot_23-xs.png 300w ,https://swivro.net/media/posts/11/responsive/Screenshot_23-sm.png 480w ,https://swivro.net/media/posts/11/responsive/Screenshot_23-md.png 768w"  alt="" width="390" height="730"></figure>
+<p>Another menu may pop up with a confirmation saying "Add to home screen?". Simply click yes.</p>
+<p>You now have a Levin Icon on the home screen of your phone, and at any time you can tap that app icon and it will open Levin in your browser automatically. From there you can generate and manage your passwords on-the-go, no sync needed of course.</p>
+<p>You may have noticed that, since Levin's official release, the design and tools haven't been updated much. There's a simple reason why. We don't update what isn't in need of an update. Levin is great the way it is, and by changing it immediately after release (a few days to weeks time), it annoys our visitors, and makes no sense, considering Levin was already fully functional and was great the way it was. We also like to keep Levin very minimal, modern, and user-friendly, which is why it has as least "design features" as possible, while still delivering a powerful password generator/manager solution to our visitors and users.</p>
+<p>As always, donations are appreciated. We run on donations, to allow us to keep providing online services like Levin, and more, and to help cover the "cost" of human labor hours. Due to some recent lack of funding via donations we were forced to implement Ad's to our website (the website you are currently on) to help fund us. If you would like to see these ad's get removed, feel free to donate at any time. It isn't required, but if you would like to consider donating, there is a button below. <strong>Thanks for reading and have a great day :)</strong></p>
+<p> </p>
+<form action="https://www.paypal.com/donate" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="A5WM6RH64VRLS"> <input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" type="image"> <img loading="lazy" src="https://www.paypal.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0" loading="lazy" data-is-external-image="true"></form>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Speaklink Introduction &amp; 0.2 Official Release</title>
         <author>
