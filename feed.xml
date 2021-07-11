@@ -3,12 +3,36 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-10T17:23:10-05:00</updated>
+    <updated>2021-07-10T22:53:59-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
     <id>https://swivro.net</id>
 
+    <entry>
+        <title>Swivro Premium Services now available</title>
+        <author>
+            <name>Casper the Ghost</name>
+        </author>
+        <link href="https://swivro.net/swivro-premium-services-now-available.html"/>
+        <id>https://swivro.net/swivro-premium-services-now-available.html</id>
+
+        <updated>2021-07-10T22:53:59-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://swivro.net/media/posts/15/New-Project-2021-07-10T223910.004.png" alt="" />
+                    Swivro is a nonprofit technology group. When we say nonprofit, we don't mean a legally registered nonprofit (IE: 501[c3]) entity,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://swivro.net/media/posts/15/New-Project-2021-07-10T223910.004.png" alt="" />
+                <p>Swivro is a nonprofit technology group. When we say nonprofit, we don't mean a legally registered nonprofit (IE: 501[c3]) entity, but we mean our primary goal is not to make a profit. Learn more on our About page regarding us being a nonprofit technology group.</p>
+<p>Moving on, Swivro is now offering Premium Services, if you donate a small amount of $4.10 per month to us, you then receive access to Swivro Premium Services. Currently, as part of our Premium Services, we are only offering File Storage. That is, if you make a donation of $4.10 per month to us (monthly donation subscription), you get access to your own File Storage (Swivro Drive) account, capable of hosting up to 350GB of data. Learn more about Premium Services, required donation amount, file storage info, and more by clicking <a href="https://swivro.net/file-storage.html"><span style="text-decoration: underline;">here</span></a>. </p>
+<p>We hope you consider trying our Premium Services, it helps run Swivro and donations, as always, are very much appreciated. This article/update was a short one, but as always, thanks for reading!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Speaklink Mobile now available</title>
         <author>

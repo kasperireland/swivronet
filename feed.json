@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://swivro.net/swivro-premium-services-now-available.html",
+            "url": "https://swivro.net/swivro-premium-services-now-available.html",
+            "title": "Swivro Premium Services now available",
+            "summary": "Swivro is a nonprofit technology group. When we say nonprofit, we don't mean a legally registered nonprofit (IE: 501[c3]) entity,&hellip;",
+            "content_html": "<p>Swivro is a nonprofit technology group. When we say nonprofit, we don't mean a legally registered nonprofit (IE: 501[c3]) entity, but we mean our primary goal is not to make a profit. Learn more on our About page regarding us being a nonprofit technology group.</p>\n<p>Moving on, Swivro is now offering Premium Services, if you donate a small amount of $4.10 per month to us, you then receive access to Swivro Premium Services. Currently, as part of our Premium Services, we are only offering File Storage. That is, if you make a donation of $4.10 per month to us (monthly donation subscription), you get access to your own File Storage (Swivro Drive) account, capable of hosting up to 350GB of data. Learn more about Premium Services, required donation amount, file storage info, and more by clicking <a href=\"https://swivro.net/file-storage.html\"><span style=\"text-decoration: underline;\">here</span></a>. </p>\n<p>We hope you consider trying our Premium Services, it helps run Swivro and donations, as always, are very much appreciated. This article/update was a short one, but as always, thanks for reading!</p>",
+            "image": "https://swivro.net/media/posts/15/New-Project-2021-07-10T223910.004.png",
+            "author": {
+                "name": "Casper the Ghost"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-10T22:50:45-05:00",
+            "date_modified": "2021-07-10T22:53:59-05:00"
+        },
+        {
             "id": "https://swivro.net/speaklink-mobile-now-available.html",
             "url": "https://swivro.net/speaklink-mobile-now-available.html",
             "title": "Speaklink Mobile now available",
