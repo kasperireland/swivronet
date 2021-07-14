@@ -41,21 +41,6 @@
             "date_modified": "2021-07-10T23:34:09-05:00"
         },
         {
-            "id": "https://swivro.net/swivro-premium-services-now-available.html",
-            "url": "https://swivro.net/swivro-premium-services-now-available.html",
-            "title": "Swivro Premium Services now available",
-            "summary": "Swivro is a nonprofit technology group. When we say nonprofit, we don't mean a legally registered nonprofit (IE: 501[c3]) entity,&hellip;",
-            "content_html": "<p>Swivro is a nonprofit technology group. When we say nonprofit, we don't mean a legally registered nonprofit (IE: 501[c3]) entity, but we mean our primary goal is not to make a profit. Learn more on our About page regarding us being a nonprofit technology group.</p>\n<p>Moving on, Swivro is now offering Premium Services, if you donate a small amount of $4.10 per month to us, you then receive access to Swivro Premium Services. Currently, as part of our Premium Services, we are only offering File Storage. That is, if you make a donation of $4.10 per month to us (monthly donation subscription), you get access to your own File Storage (Swivro Drive) account, capable of hosting up to 350GB of data. Learn more about Premium Services, required donation amount, file storage info, and more by clicking <a href=\"https://swivro.net/file-storage.html\"><span style=\"text-decoration: underline;\">here</span></a>. </p>\n<p>We hope you consider trying our Premium Services, it helps run Swivro and donations, as always, are very much appreciated. This article/update was a short one, but as always, thanks for reading!</p>",
-            "image": "https://swivro.net/media/posts/15/New-Project-2021-07-10T223910.004.png",
-            "author": {
-                "name": "Casper the Ghost"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-10T22:50:45-05:00",
-            "date_modified": "2021-07-10T22:53:59-05:00"
-        },
-        {
             "id": "https://swivro.net/speaklink-mobile-now-available.html",
             "url": "https://swivro.net/speaklink-mobile-now-available.html",
             "title": "Speaklink Mobile now available",
@@ -159,6 +144,21 @@
             ],
             "date_published": "2021-07-05T18:34:20-05:00",
             "date_modified": "2021-07-05T18:37:01-05:00"
+        },
+        {
+            "id": "https://swivro.net/gitpear-is-fully-operational.html",
+            "url": "https://swivro.net/gitpear-is-fully-operational.html",
+            "title": "GitPear is fully operational",
+            "summary": "GitPear, the #1 best alternative to GitHub (FREE Code Hosting), managed and owned by us at Swivro, has officially been&hellip;",
+            "content_html": "<p>GitPear, the #1 best alternative to GitHub (FREE Code Hosting), managed and owned by us at Swivro, has officially been operational since June 30th, 2021. GitPear is in a stable production state, and is no longer buggy or unstable. GitPear is now available to anyone, anywhere. Although GitPear does indeed offer all free services, donations are very appreciated, as we run on donations and are funded by Arc.io every so often.</p>\n<p> </p>\n<div>Let's get started with some of the obvious changes. The logo. The logo has a new color and look. Here you can see a comparison of the logo when GitPear opened and the new logo.</div>\n<div> </div>\n<div><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://i.imgur.com/CVyZkU6.png\" data-is-external-image=\"true\"  alt=\"\" width=\"355\" height=\"340\"></figure></div>\n<div>\n<div>\n<div class=\"separator\">Yes, we know, the old logo does look more like a pear, as the color is more similar to the color of an actual pear, but we wanted to switch things up, and create a \"modern color\" pear. It pops out more, looks cooler, but it doesn't give you a better feeling about if the pear is ripe or not.</div>\n<div class=\"separator\">GitPear, of course, is based on the Open Source Gitea Software, which you can see at any time via this GitHub Mirror hosted at GitPear: <a href=\"https://gitpear.com/kasper/gitea\">https://gitpear.com/kasper/gitea</a></div>\n<div class=\"separator\"> </div>\n<div class=\"separator\">GitPear wont last forever if we cannot fund it. To fund it, we need donations. We're not requiring it but we do really appreciate it, you can donate directly to GitPear via PayPal or Card. All of the money goes straight back into GitPear.</div>\nSwivro is considered a nonprofit, but not the legal entity type (IE: 501[c3]). We are a nonprofit technology group, MEANING, our primary objective is not to make a profit, but obviously, we will need to make some money to keep operating our services. Some of our (Swivro) brands or divisions do not offer free services, and those brands can sustain themselves as they actively make a profit intentionally, but nonprofit brands like GitPear require donations to keep running.</div>\n<div>If you would like to donate directly to GitPear, feel free to do so here: <a href=\"https://liberapay.com/GitPear/donate\">https://liberapay.com/GitPear/donate</a><br><br></div>\n<div>Back on the topic. GitPear now also features a Dark Theme, called Arc-Green. So when you are browsing your code on GitPear at night, or your just the type of person that doesn't enjoy burning their corneas, then you can use this dark theme by logging into your GitPear account, going to Settings -&gt; Account, then scroll down to Theme. Arc-Green Dark Theme is developed by Gitea. We have not have it enabled until now.</div>\n<div> </div>\n<div>We took a while to figure this one out, we needed to pick a server provider to host GitPear. We looked through lots of providers, including Hetzner, NetCup, Contabo, OVH, Azure, and more, but when comparing prices, features, speed, DDoS Protection, and value, side by side, BuyVM by FranTech had won, and we are now happily hosting with them, on a KVM Dedicated Slice.</div>\n<div> </div>\n<div>If you have any queries or concerns feel free to contact us via the Contact Page on this website. Thanks for reading!</div>\n</div>",
+            "image": "https://swivro.net/media/posts/2/Screenshot_20.png",
+            "author": {
+                "name": "Casper the Ghost"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-03T19:05:00-05:00",
+            "date_modified": "2021-07-05T19:10:39-05:00"
         }
     ]
 }
