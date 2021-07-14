@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://swivro.net/introducing-atlasdns-first-we-need-your-help.html",
+            "url": "https://swivro.net/introducing-atlasdns-first-we-need-your-help.html",
+            "title": "Introducing AtlasDNS; First we need your help!",
+            "summary": "Swivro has successfully tested &amp; wants to start up a service called AtlasDNS. AtlasDNS would be a free privacy-oriented secure&hellip;",
+            "content_html": "<p>Swivro has successfully tested &amp; wants to start up a service called AtlasDNS. AtlasDNS would be a free privacy-oriented secure DNS Hosting platform. You could manage your domain name's DNS Records using AtlasDNS. AtlasDNS would be a great alternative to ClouDNS, Namecheap's FreeDNS Program, Duck DNS, NO-IP, and even CloudFlare.</p>\n<p>AtlasDNS would let you create UNLIMITED DNS Records for up to 50 domain names. You can get these limits lifted &amp; receive access to be able to DNS-host up to 500 domain names in exchange for a small monthly donation (amount to be decided). AtlasDNS would eventually feature a proxy feature, similar to CloudFlare's Proxy System. You will be able to create a DNS record pointing to your origin server, still resolving all of the same data, whilst proxying your websites traffic through AtlasDNS's servers. AtlasDNS will feature advanced DDoS Protection (possibly powered by Path.net DDoS Mitigation), so by proxying your website traffic through AtlasDNS, you will be protected against not just standard protocol (Layer 4) DDoS Attacks, but also HTTP Flood (Layer 7 DDoS) Attacks. This would make AtlasDNS essentially an alternative to CloudFlare, but, the difference being, CloudFlare's main focus is their CDN network, to speed up websites aka improve their loadtime, while AtlasDNS's main focus is to defend against Cyber-Attacks (such as DDoS attacks &amp; more) and to respect your privacy. Basically, if you're using CloudFlare for proxying &amp; DDoS attack mitigation, there's no point in using it over AtlasDNS :)</p>\n<p>The only issue is, projects like AtlasDNS are not free to run. They cost money and we spend our time working on things like AtlasDNS. <strong>If you would like to perhaps see AtlasDNS become a reality, please consider donating a small amount of money to Swivro, even as low as $5. </strong>You might think we would have said \"as low as $1\" but with the new PayPal Fee's paypal would take well over 50% of that $1, so we would only receive around $0.40, whereas if you donate a small amount of $5, we would receive around $4.45. If you would like to donate, there is a button below to do so. Thank you for considering donating, and have a great day :)</p>\n<p> </p>\n<form action=\"https://www.paypal.com/donate\" method=\"post\" target=\"_top\"><input name=\"hosted_button_id\" type=\"hidden\" value=\"MBSGS9FFWADWJ\"> <input title=\"PayPal - The safer, easier way to pay online!\" alt=\"Donate with PayPal button\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" type=\"image\"> <img loading=\"lazy\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" data-is-external-image=\"true\"  alt=\"\" width=\"1\" height=\"1\" border=\"0\"></form>",
+            "image": "https://swivro.net/media/posts/19/New-Project-2021-07-14T180608.984.png",
+            "author": {
+                "name": "Casper the Ghost"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-14T18:26:42-05:00",
+            "date_modified": "2021-07-14T18:26:42-05:00"
+        },
+        {
             "id": "https://swivro.net/introducing-pickmyhost.html",
             "url": "https://swivro.net/introducing-pickmyhost.html",
             "title": "Introducing PickMyHost",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-07-05T18:34:20-05:00",
             "date_modified": "2021-07-05T18:37:01-05:00"
-        },
-        {
-            "id": "https://swivro.net/gitpear-is-fully-operational.html",
-            "url": "https://swivro.net/gitpear-is-fully-operational.html",
-            "title": "GitPear is fully operational",
-            "summary": "GitPear, the #1 best alternative to GitHub (FREE Code Hosting), managed and owned by us at Swivro, has officially been&hellip;",
-            "content_html": "<p>GitPear, the #1 best alternative to GitHub (FREE Code Hosting), managed and owned by us at Swivro, has officially been operational since June 30th, 2021. GitPear is in a stable production state, and is no longer buggy or unstable. GitPear is now available to anyone, anywhere. Although GitPear does indeed offer all free services, donations are very appreciated, as we run on donations and are funded by Arc.io every so often.</p>\n<p> </p>\n<div>Let's get started with some of the obvious changes. The logo. The logo has a new color and look. Here you can see a comparison of the logo when GitPear opened and the new logo.</div>\n<div> </div>\n<div><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://i.imgur.com/CVyZkU6.png\" data-is-external-image=\"true\"  alt=\"\" width=\"355\" height=\"340\"></figure></div>\n<div>\n<div>\n<div class=\"separator\">Yes, we know, the old logo does look more like a pear, as the color is more similar to the color of an actual pear, but we wanted to switch things up, and create a \"modern color\" pear. It pops out more, looks cooler, but it doesn't give you a better feeling about if the pear is ripe or not.</div>\n<div class=\"separator\">GitPear, of course, is based on the Open Source Gitea Software, which you can see at any time via this GitHub Mirror hosted at GitPear: <a href=\"https://gitpear.com/kasper/gitea\">https://gitpear.com/kasper/gitea</a></div>\n<div class=\"separator\"> </div>\n<div class=\"separator\">GitPear wont last forever if we cannot fund it. To fund it, we need donations. We're not requiring it but we do really appreciate it, you can donate directly to GitPear via PayPal or Card. All of the money goes straight back into GitPear.</div>\nSwivro is considered a nonprofit, but not the legal entity type (IE: 501[c3]). We are a nonprofit technology group, MEANING, our primary objective is not to make a profit, but obviously, we will need to make some money to keep operating our services. Some of our (Swivro) brands or divisions do not offer free services, and those brands can sustain themselves as they actively make a profit intentionally, but nonprofit brands like GitPear require donations to keep running.</div>\n<div>If you would like to donate directly to GitPear, feel free to do so here: <a href=\"https://liberapay.com/GitPear/donate\">https://liberapay.com/GitPear/donate</a><br><br></div>\n<div>Back on the topic. GitPear now also features a Dark Theme, called Arc-Green. So when you are browsing your code on GitPear at night, or your just the type of person that doesn't enjoy burning their corneas, then you can use this dark theme by logging into your GitPear account, going to Settings -&gt; Account, then scroll down to Theme. Arc-Green Dark Theme is developed by Gitea. We have not have it enabled until now.</div>\n<div> </div>\n<div>We took a while to figure this one out, we needed to pick a server provider to host GitPear. We looked through lots of providers, including Hetzner, NetCup, Contabo, OVH, Azure, and more, but when comparing prices, features, speed, DDoS Protection, and value, side by side, BuyVM by FranTech had won, and we are now happily hosting with them, on a KVM Dedicated Slice.</div>\n<div> </div>\n<div>If you have any queries or concerns feel free to contact us via the Contact Page on this website. Thanks for reading!</div>\n</div>",
-            "image": "https://swivro.net/media/posts/2/Screenshot_20.png",
-            "author": {
-                "name": "Casper the Ghost"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-03T19:05:00-05:00",
-            "date_modified": "2021-07-05T19:10:39-05:00"
         }
     ]
 }
