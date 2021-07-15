@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://swivro.net/pickmyhost-project-cancellation.html",
+            "url": "https://swivro.net/pickmyhost-project-cancellation.html",
+            "title": "PickMyHost; Project Cancellation",
+            "summary": "Hey there. The other day, we posted an update stating that we would be publicly releasing a project called PickMyHost,&hellip;",
+            "content_html": "<p>Hey there. The other day, we posted an update stating that we would be publicly releasing a project called PickMyHost, allowing you to go through a series of questions, and based on those questions, you will be recommended a hosting provider based on your needs, budget, etc, which you were to select while going through the form.</p>\n<p>Unfortunately, due to several concerns regarding PickMyHost, it will no longer be publicly available, or available at all. The project has been cancelled and further work on this project has been ceased. For privacy reasons, we will not provide the full reasoning behind why this project was cancelled, but we will assure you; after extensive research and several brief reviews of the project &amp; multiple overviews &amp; comparisons, we came to a conclusion that PickMyHost should not be publicly released or should continue to be developed.</p>\n<p>We hope you understand, and we look forward to offering even more services in the future, in addition to our current offerings. Thanks for reading.</p>",
+            "image": "https://swivro.net/media/posts/20/New-Project-2021-07-15T151632.796.png",
+            "author": {
+                "name": "Casper the Ghost"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-15T15:21:56-05:00",
+            "date_modified": "2021-07-15T15:21:56-05:00"
+        },
+        {
             "id": "https://swivro.net/introducing-atlasdns-first-we-need-your-help.html",
             "url": "https://swivro.net/introducing-atlasdns-first-we-need-your-help.html",
             "title": "Introducing AtlasDNS; First we need your help!",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2021-07-07T00:06:30-05:00",
             "date_modified": "2021-07-07T22:07:37-05:00"
-        },
-        {
-            "id": "https://swivro.net/introducing-levin-password-manager.html",
-            "url": "https://swivro.net/introducing-levin-password-manager.html",
-            "title": "Introducing Levin Password Manager",
-            "summary": " Introducing Levin. Levin is a password manager, that doesn't store any passwords. Makes sense right? Levin looks more like&hellip;",
-            "content_html": "\n  <p>\n    Introducing Levin. Levin is a password manager, that doesn't store any passwords. Makes sense right? Levin looks more like a password generator at first, and you wouldn't be wrong, it works, feels, and looks like one. \n<br>\n<br>Levin lets you generate and access various passwords for various sites with only a single master password. That's right, all you have to remember is the master password. Remember one master password to access all of your passwords, anywhere, anytime, on any device. No synchronization between devices is needed. What, how? Well, it's because, when the same values are entered for the site name, username, and master password (and password length and specifications, both optional), the same exact password will always be generated. For example, if for the username, I put \"test\", for the site name, I put \"test\" and for the master password, I put \"test\", the password will always result as the following:\n<br>\n<br>n5OOmzRroYD{y[PGmgEMzf5/nc_{yzdB\n<br>\n<br>\n<br>\n<br>You can test this on your own at Levin, accessible here https://tls.levin.codes and if you put \"test\" for every input/text value, including the site name, username, and master password, it will always result the same. In this case, it is the value specified above this paragraph, in italics.\n<br>\n<br>Now, how secure is it? A combination of the site name, username, and master password is SHA512/224 hashed. The output hash is encoded using a modified form of the Base64 encoding algorithm, mapping 3 character input segments to 4 characters of output. Can't understand that? It means it's pretty darn good security-wise. We don't hide anything from you either, Levin is based on open source software which you can see in the source code as a comment line. Additionally, we have licensed Levin under CC by ND 4.0. This means you can use Levin for both personal or commercial use, but attribution is required, and if you remix, transform, or build upon the material, you may not distribute the modified material.\n<br>\n<br>Additionally, along with the encryption methods stated above, your connection to the Levin website also features two layers of encryption, both being TLS Certificates. The outer layer of encryption is the CloudFlare TLS Certificate, which encrypts the connection between your browser, and CloudFlare. The inner layer of encryption, serverside, features (usually) a self-signed Levin TLS Certificate. On some occasions, a Let's Encrypt/R3, or ZeroSSL TLS Certificate will be used. Typically, we use self-signed Levin TLS Certificates. This makes a total of more than 4 encryption methods (when counting server encryption, and more) throughout Levin.\n<br>\n<br>Levin will be available forever, even if Swivro were to shut down, a rather impossible event. Levin is independently managed by its own team, Swivro itself does not actively make its own changes to Levin or any of its projects. Try Levin Now &gt; https://tls.levin.codes/\n<br>\n<br>Feel free to donate to us at any time, since we run solely on donations, and sadly, we don't have a lot of patrons. Thank you for reading.\n  </p>\n<div><form action=\"https://www.paypal.com/donate\" method=\"post\" target=\"_top\">\n<input name=\"hosted_button_id\" type=\"hidden\" value=\"A5WM6RH64VRLS\" />\n<input alt=\"Donate with PayPal button\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" title=\"PayPal - The safer, easier way to pay online!\" type=\"image\" />\n<img loading=\"lazy\" alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" data-is-external-image=\"true\"  width=\"1\" />\n</form>\n</div>",
-            "image": "https://swivro.net/media/posts/1/New-Project-2021-07-05T163512.600.png",
-            "author": {
-                "name": "Casper the Ghost"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-07-05T18:34:20-05:00",
-            "date_modified": "2021-07-05T18:37:01-05:00"
         }
     ]
 }

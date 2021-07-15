@@ -3,12 +3,36 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-14T20:05:27-05:00</updated>
+    <updated>2021-07-15T15:21:56-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
     <id>https://swivro.net</id>
 
+    <entry>
+        <title>PickMyHost; Project Cancellation</title>
+        <author>
+            <name>Casper the Ghost</name>
+        </author>
+        <link href="https://swivro.net/pickmyhost-project-cancellation.html"/>
+        <id>https://swivro.net/pickmyhost-project-cancellation.html</id>
+
+        <updated>2021-07-15T15:21:56-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://swivro.net/media/posts/20/New-Project-2021-07-15T151632.796.png" alt="" />
+                    Hey there. The other day, we posted an update stating that we would be publicly releasing a project called PickMyHost,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://swivro.net/media/posts/20/New-Project-2021-07-15T151632.796.png" alt="" />
+                <p>Hey there. The other day, we posted an update stating that we would be publicly releasing a project called PickMyHost, allowing you to go through a series of questions, and based on those questions, you will be recommended a hosting provider based on your needs, budget, etc, which you were to select while going through the form.</p>
+<p>Unfortunately, due to several concerns regarding PickMyHost, it will no longer be publicly available, or available at all. The project has been cancelled and further work on this project has been ceased. For privacy reasons, we will not provide the full reasoning behind why this project was cancelled, but we will assure you; after extensive research and several brief reviews of the project &amp; multiple overviews &amp; comparisons, we came to a conclusion that PickMyHost should not be publicly released or should continue to be developed.</p>
+<p>We hope you understand, and we look forward to offering even more services in the future, in addition to our current offerings. Thanks for reading.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Introducing AtlasDNS; First we need your help!</title>
         <author>
@@ -305,53 +329,6 @@
 <p><strong>We're also looking into partnering </strong>with various companies &amp; organizations which also care about privacy and security, and offer free online services, as we do. By partnering with these organizations &amp; companies, it will benefit both of us (Us at Swivro and you. the Visitor!). It will help Swivro grow, and we also get to show you what cool thing they (our partner) are offering! We're also looking into acquiring some "dying" hosting businesses in an attempt to continue their services. We won't ruin them though, this aint EIG (Endurance International Group).</p>
 <p><strong>The final question; what's next?</strong> We have plans for new upcoming branches of Swivro and new products, offerings, and/or services, but we don't like to say too much until it actually happens, because plans can change in a heartbeat. In other words, we don't want to announce "this product" which is being released next month, but then a week later announce "this product" is no longer being released. Just for this post, we will say, we are working towards a new offering, which will offer DNS Hosting. It's a great alternative to ClouDNS, and CloudFlare DNS (our offering will not include a domain proxy), and will be secure and reliable with tight security measures. If you would like to help fund this new upcoming project, feel free to donate to Swivro via PayPal. It's very much truly appreciated and we will do our best to send you a personal email (Not from a bot, from a human!), being the email in your PayPal account in which you used to donate to us, thanking you for donating to us at Swivro.</p>
 <p>We always do our best to provide public updates on whats happening at Swivro, so, thank you for reading! See you next time.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Introducing Levin Password Manager</title>
-        <author>
-            <name>Casper the Ghost</name>
-        </author>
-        <link href="https://swivro.net/introducing-levin-password-manager.html"/>
-        <id>https://swivro.net/introducing-levin-password-manager.html</id>
-
-        <updated>2021-07-05T18:37:01-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://swivro.net/media/posts/1/New-Project-2021-07-05T163512.600.png" alt="" />
-                     Introducing Levin. Levin is a password manager, that doesn't store any passwords. Makes sense right? Levin looks more like&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://swivro.net/media/posts/1/New-Project-2021-07-05T163512.600.png" alt="" />
-                
-  <p>
-    Introducing Levin. Levin is a password manager, that doesn't store any passwords. Makes sense right? Levin looks more like a password generator at first, and you wouldn't be wrong, it works, feels, and looks like one. 
-<br>
-<br>Levin lets you generate and access various passwords for various sites with only a single master password. That's right, all you have to remember is the master password. Remember one master password to access all of your passwords, anywhere, anytime, on any device. No synchronization between devices is needed. What, how? Well, it's because, when the same values are entered for the site name, username, and master password (and password length and specifications, both optional), the same exact password will always be generated. For example, if for the username, I put "test", for the site name, I put "test" and for the master password, I put "test", the password will always result as the following:
-<br>
-<br>n5OOmzRroYD{y[PGmgEMzf5/nc_{yzdB
-<br>
-<br>
-<br>
-<br>You can test this on your own at Levin, accessible here https://tls.levin.codes and if you put "test" for every input/text value, including the site name, username, and master password, it will always result the same. In this case, it is the value specified above this paragraph, in italics.
-<br>
-<br>Now, how secure is it? A combination of the site name, username, and master password is SHA512/224 hashed. The output hash is encoded using a modified form of the Base64 encoding algorithm, mapping 3 character input segments to 4 characters of output. Can't understand that? It means it's pretty darn good security-wise. We don't hide anything from you either, Levin is based on open source software which you can see in the source code as a comment line. Additionally, we have licensed Levin under CC by ND 4.0. This means you can use Levin for both personal or commercial use, but attribution is required, and if you remix, transform, or build upon the material, you may not distribute the modified material.
-<br>
-<br>Additionally, along with the encryption methods stated above, your connection to the Levin website also features two layers of encryption, both being TLS Certificates. The outer layer of encryption is the CloudFlare TLS Certificate, which encrypts the connection between your browser, and CloudFlare. The inner layer of encryption, serverside, features (usually) a self-signed Levin TLS Certificate. On some occasions, a Let's Encrypt/R3, or ZeroSSL TLS Certificate will be used. Typically, we use self-signed Levin TLS Certificates. This makes a total of more than 4 encryption methods (when counting server encryption, and more) throughout Levin.
-<br>
-<br>Levin will be available forever, even if Swivro were to shut down, a rather impossible event. Levin is independently managed by its own team, Swivro itself does not actively make its own changes to Levin or any of its projects. Try Levin Now &gt; https://tls.levin.codes/
-<br>
-<br>Feel free to donate to us at any time, since we run solely on donations, and sadly, we don't have a lot of patrons. Thank you for reading.
-  </p>
-<div><form action="https://www.paypal.com/donate" method="post" target="_top">
-<input name="hosted_button_id" type="hidden" value="A5WM6RH64VRLS" />
-<input alt="Donate with PayPal button" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" title="PayPal - The safer, easier way to pay online!" type="image" />
-<img loading="lazy" alt="" border="0" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  width="1" />
-</form>
-</div>
             ]]>
         </content>
     </entry>
