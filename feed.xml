@@ -3,40 +3,12 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-15T21:47:49-05:00</updated>
+    <updated>2021-07-15T19:15:26-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
     <id>https://swivro.net</id>
 
-    <entry>
-        <title>LibreWeb; a free web host for everyone</title>
-        <author>
-            <name>Casper the Ghost</name>
-        </author>
-        <link href="https://swivro.net/libreweb-a-free-web-host-for-everyone.html"/>
-        <id>https://swivro.net/libreweb-a-free-web-host-for-everyone.html</id>
-
-        <updated>2021-07-15T21:47:49-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://swivro.net/media/posts/22/New-Project-2021-07-15T214508.433.png" alt="" />
-                    Yet another Swivro project being spoken of. First (this past month) we had GitPear, then Levin Password Manager, then Speaklink,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://swivro.net/media/posts/22/New-Project-2021-07-15T214508.433.png" alt="" />
-                <p>Yet another Swivro project being spoken of. First (this past month) we had GitPear, then Levin Password Manager, then Speaklink, and more. Now, we're announcing LibreWeb.</p>
-<p>LibreWeb is a free static web hosting service. No credit card or payment information is required, but to sign up for an account, you may not use fake information, such as a fake name, fake address, or more. LibreWeb isn't your average GitHub Pages or CloudFlare Pages. LibreWeb offers a fully fledged web hosting control panel to manage your website, website content, files, emails, FTP access, and more. With GitHub pages, it's just another website creation feature jammed into their UI, only consisting of a few buttons. We will be utilizing the DirectAdmin software instead.</p>
-<p>LibreWeb (free) is intended to offer 2.5GB of SSD NVME Disk Space, No Bandwidth Cap, No Inode Limit, No Domain Name/Website Limit, and no Subdomain limit. Additionally, you can receive full access to LibreWeb, including 5GB (remember, by default it is 2.5GB) of SSD NVME Disk Space, and access to PHP/MySQL in exchange of a $5 donation to us.</p>
-<p>If LibreWeb were to become a reality (read more below this paragraph about LibreWeb going live &amp; becoming a reality), AtlasDNS, our other project/concept, would be merged into LibreWeb, as LibreWeb would offer DNS Hosting as part of the Web Hosting Control Panel.</p>
-<p>LibreWeb currently isn't a reality. If you want to see LibreWeb become a reality, all it takes is a small donation to help, even if it is just $5. We aren't saying this to try to demand more money from you, but we aren't asking for a small donation of $1 because PayPal (with their new fees) would take well over 50% of that, meaning we would only receive around 40 cents of that $1, so by donating $5 it helps much more. Thanks for reading.</p>
-<p> </p>
-<form action="https://www.paypal.com/donate" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="MBSGS9FFWADWJ"> <input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"> <img loading="lazy" src="https://www.paypal.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0"></form>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Swivro now runs BusinessManaged.org</title>
         <author>
@@ -324,6 +296,40 @@
 <p> </p>
 <p> </p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Levin Password Manager 1.1 Official Release</title>
+        <author>
+            <name>Casper the Ghost</name>
+        </author>
+        <link href="https://swivro.net/levin-password-manager-11-official-release.html"/>
+        <id>https://swivro.net/levin-password-manager-11-official-release.html</id>
+
+        <updated>2021-07-08T00:24:44-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://swivro.net/media/posts/9/New-Project-2021-07-08T002318.264.png" alt="" />
+                    Levin, our amazing stateless password manager, has been operating flawlessly since release. It's not perfect, and never will be absolutely&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://swivro.net/media/posts/9/New-Project-2021-07-08T002318.264.png" alt="" />
+                <p>Levin, our amazing stateless password manager, has been operating flawlessly since release. It's not perfect, and never will be absolutely spot-on perfect, but we always try to improve it as much as we can. Levin 1.1, our latest release, is indeed an improvement, making things simpler, quicker, and less-complicated, while still delivering the same great speed, security, privacy, ya know.</p>
+<p>Levin is mind-blowingly lightweight, so there isn't much code. Being said, we just officially released Levin 1.1. Levin 1.1 can be accessed via Levin Web at levin.swivro.net or TLS.Levin.codes. Levin 1.1 is not yet pushed to the open source GitPear repository for public-use, but will be shortly. You can still download Levin 1.1 NOW via Google Drive, more on that later in this article.</p>
+<p><strong>What's changed?</strong></p>
+<p>Levin 1.1 features no major changes. Levin 1.1 includes minor JS &amp; HTML Code changes in the Levin Web App, nothing too noticeable though. Levin features a brand new homepage, with a list of some features that Levin is proud of, and a quick button, which once pressed, brings you to Levin Web. When we say Levin Web, we mean our official public instance of Levin ran by Swivro, accessible via levin.swivro.net and only levin.swivro.net. We migrated from tls.levin.codes to levin.swivro.net to ensure security and after becoming aware of potential conflicts with Name.com, the domain registrar for tls.levin.codes such as them tracking DNS Queries, not caring about privacy, and more concerns regarding our ownership of the domain name levin.codes. The new Bootstrap homepage for Levin explains how we value your privacy, how Levin has great security, and how/why it is forever free. As mentioned, this homepage is part of the 1.1 update and will be available on the official Levin repository on GitPear. </p>
+<p><strong>What's next for Levin?</strong></p>
+<p>Levin <strong>1.2</strong> is the next Levin update. It will feature an improved UI for Levin Web, cleaner/simpler code, will be more lightweight, will feature JavaScript-encoded HTML webpage Files, and more. Levin 1.2 from 1.1 (current release) should be a bigger improvement, than the improvement from 1.0 to 1.1 (current release). Levin 1.2 should be simpler, easier, faster, and smarter. Even a baby could use it. Levin 1.2 will also feature a mobile (android) and desktop (windows) app for quick &amp; easy use for Levin Web.</p>
+<p>For everyone wondering, Levin is indeed available to be used offline. This means you can run Levin on your own device without internet, it's free, it's easy, and did we mention it's free? Levin is plain HTML, CSS, and JS. Oh, and Bootstrap.</p>
+<p>Download Levin 1.1 for your own personal or commercial use with the Google Drive link below. Remember, Levin is licensed under <span style="text-decoration: underline;"><strong><a href="https://creativecommons.org/licenses/by-nd/4.0/">CC By ND 4.0, the license can be viewed by clicking this text.</a></strong></span></p>
+<p>Download Levin 1.1 zip file: <a href="https://drive.google.com/file/d/1oy451-xrUjG_LslRKtSo-6UZLkneZTXc/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1oy451-xrUjG_LslRKtSo-6UZLkneZTXc/view?usp=sharing</a></p>
+<p>As always, donations are extremely appreciated. We run on them, and even $1 helps us. If you would like to consider donating just one time, whether its a small amount or not, the button is below if you wish :)</p>
+<p>Thanks for reading, and have a great day.</p>
+<p> </p>
+<form action="https://www.paypal.com/donate" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="A5WM6RH64VRLS"> <input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" type="image"> <img loading="lazy" src="https://www.paypal.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0"></form>
             ]]>
         </content>
     </entry>
