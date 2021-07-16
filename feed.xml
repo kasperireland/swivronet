@@ -3,7 +3,7 @@
     <title>Swivro</title>
     <link href="https://swivro.net/feed.xml" rel="self" />
     <link href="https://swivro.net" />
-    <updated>2021-07-15T21:46:12-05:00</updated>
+    <updated>2021-07-15T21:47:49-05:00</updated>
     <author>
         <name>Casper the Ghost</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://swivro.net/libreweb-a-free-web-host-for-everyone.html"/>
         <id>https://swivro.net/libreweb-a-free-web-host-for-everyone.html</id>
 
-        <updated>2021-07-15T21:46:12-05:00</updated>
+        <updated>2021-07-15T21:47:49-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://swivro.net/media/posts/22/New-Project-2021-07-15T214508.433.png" alt="" />
@@ -30,6 +30,7 @@
                 <p>Yet another Swivro project being spoken of. First (this past month) we had GitPear, then Levin Password Manager, then Speaklink, and more. Now, we're announcing LibreWeb.</p>
 <p>LibreWeb is a free static web hosting service. No credit card or payment information is required, but to sign up for an account, you may not use fake information, such as a fake name, fake address, or more. LibreWeb isn't your average GitHub Pages or CloudFlare Pages. LibreWeb offers a fully fledged web hosting control panel to manage your website, website content, files, emails, FTP access, and more. With GitHub pages, it's just another website creation feature jammed into their UI, only consisting of a few buttons. We will be utilizing the DirectAdmin software instead.</p>
 <p>LibreWeb (free) is intended to offer 2.5GB of SSD NVME Disk Space, No Bandwidth Cap, No Inode Limit, No Domain Name/Website Limit, and no Subdomain limit. Additionally, you can receive full access to LibreWeb, including 5GB (remember, by default it is 2.5GB) of SSD NVME Disk Space, and access to PHP/MySQL in exchange of a $5 donation to us.</p>
+<p>If LibreWeb were to become a reality (read more below this paragraph about LibreWeb going live &amp; becoming a reality), AtlasDNS, our other project/concept, would be merged into LibreWeb, as LibreWeb would offer DNS Hosting as part of the Web Hosting Control Panel.</p>
 <p>LibreWeb currently isn't a reality. If you want to see LibreWeb become a reality, all it takes is a small donation to help, even if it is just $5. We aren't saying this to try to demand more money from you, but we aren't asking for a small donation of $1 because PayPal (with their new fees) would take well over 50% of that, meaning we would only receive around 40 cents of that $1, so by donating $5 it helps much more. Thanks for reading.</p>
 <p> </p>
 <form action="https://www.paypal.com/donate" method="post" target="_top"><input name="hosted_button_id" type="hidden" value="MBSGS9FFWADWJ"> <input title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" type="image"> <img loading="lazy" src="https://www.paypal.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  alt="" width="1" height="1" border="0"></form>
